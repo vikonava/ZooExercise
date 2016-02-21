@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  database: zootest_dev
+  pool: 5
+  timeout: 5000
+test:
+  adapter: postgresql
+  database: zootest_test
+  pool: 5
+  timeout: 5000
+production:
+  adapter: postgresql
+  database: zootest_prod
+  pool: 5
+  timeout: 5000

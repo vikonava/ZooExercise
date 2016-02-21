@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  zoo_id: 
+  name: MyString
+  species: MyString
+
+two:
+  zoo_id: 
+  name: MyString
+  species: MyString
